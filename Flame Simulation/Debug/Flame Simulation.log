@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Flame Simulation\Main.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Scene.cpp
+C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Flame Simulation\Scene.cpp(48,28): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Flame Simulation\Scene.cpp(52,28): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Flame Simulation\Scene.cpp(58,27): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Flame Simulation\Scene.cpp(66,27): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Flame Simulation.vcxproj -> C:\Users\Sandesh_P\OneDrive - pcampus.edu.np\Desktop\SPPROJ\Flame-Sim-OpenGL\Debug\Flame Simulation.exe
